@@ -46,6 +46,6 @@ In conclusion, the Real-Time Chat App is a functional, educational, and extensib
 
 _OUTPUT_
 
+![Image](https://github.com/user-attachments/assets/e87c5d82-e322-4e35-ad73-5f7d53177d7d)
 ![Image](https://github.com/user-attachments/assets/b35ca935-464d-4dd2-a3c1-ef9824f6d870)
 
-![Image](https://github.com/user-attachments/assets/e87c5d82-e322-4e35-ad73-5f7d53177d7d)
