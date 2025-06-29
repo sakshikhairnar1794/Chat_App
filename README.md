@@ -48,5 +48,4 @@ _OUTPUT_
 
 ![Image](https://github.com/user-attachments/assets/b35ca935-464d-4dd2-a3c1-ef9824f6d870)
 
-![Image](https://github.com/user-attachments/assets/83ee9ee1-7907-4e99-858a-1fbaff44dd7c)
 ![Image](https://github.com/user-attachments/assets/e87c5d82-e322-4e35-ad73-5f7d53177d7d)
